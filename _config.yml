@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 
 # Site info
 title: mimee.xyz
-description: PhD Student at New York University
+description: Postdoc at NYU Law, CS PhD on AI Privacy/Security from NYU Courant
 subdescription: Mimee Xu
 
 logo: /logo.png
@@ -15,6 +15,9 @@ markdown: CommonMarkGhPages
 
 # SEO > twitter name meta
 twitter:
+  username: MimeeXu
+
+x:
   username: MimeeXu
 
 # SEO > site name meta

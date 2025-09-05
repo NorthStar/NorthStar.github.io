@@ -1,9 +1,53 @@
-My CS PhD research at NYU's Courant Institute focuses on AI privacy, specifically on developing secure techniques to preserve data rights. This research explores the concept of a private data economy, where individuals retain control over their data while fostering a healthy market environment. By empowering individuals with the right to be forgotten and other data rights, we can establish sustainable AI governance for the future.
+I just completed my CS PhD at NYU's Courant Institute!
 
-## NeurIPS 2024 Tutorial on PrivacyML: Evaluating AI Privacy
-We observe that the ML community cannot sufficiently access privacy tech. People interested in safe ML topics such as model alignment often do not have a clear understanding of cryptography-based techniques when applied to ML.
+My research focused on AI privacy, specifically on developing secure techniques to preserve data rights. This research explores the concept of a private data economy, where individuals retain control over their data while fostering a healthy market environment. By empowering individuals with the right to be forgotten and other data rights, we can establish sustainable AI governance for the future.
 
-On the other hand, cryptographers want to apply their knowledge, especially with practical security management, to machine learning systems. Yet they face the problem of a completely different mindset from machine learning researchers who currently drive the development of these systems.
+This website is a collection of (human-written) ideas that do not form a linearity, but tells my story of intellectual and engineering pursuits.
+
+# 2025-2026 Postdoc at NYU Law ILI
+<details>
+<summary> AI is already deployed prematurely -- what are the issues, and -- most importantly -- what do those issues tell us about the future?</summary>
+
+This is my year of rest and relaxation (aka seeing things through while trying to make ends meet).
+
+Please find me for
+* research ideas,
+* coffee chats,
+* indie films and book recs,
+* writing prompts (and how to use AI for ___ without taking the risks),
+* hallucinating a better world.
+
+I am still working on auditing and regulatory possibilities for bringing meaningful oversight for AI. The technical projects can be seen on the rest of the website. I do meetings 3 days a week during the day. Earlier is better.
+
+My office: Wilf Hall south of washington square park.
+</details>
+
+Seeing that AI privacy has become much less of a theoretical pursuit, I aim to bring impact of privacy technologies further into both regulation and actual use case.
+
+#  2025 Paper on AI Ethics and Society: Private Dataset Evaluations
+
+<details>
+<summary> Dataset-to-Dataset Evaluations Before (And Without) Data Sharing (AAAI-AIES 2025)
+</summary>
+
+We notice that medical domains have a dataset combination problem -- when seemingly "in-domain" data produced in another hospital is combined with the home hospital's data, the resulting machine learning model trained on this combination may *not* improve overall performance (for the source hospital). In other domains, this problem is maybe worse: Meta MSL researchers found Scale AI's data to be low quality for machine learning training, which may not have been obvious before.
+
+This inherent uncertainty in "how can we know anything about unseen data" makes collaborations rather risky.
+
+We look forward to presenting our solution to this problem at AAAI-AIES this October. [Arxiv; to be updated](https://www.arxiv.org/abs/2502.05765)
+</details>
+
+Delighted that our paper on evaluating external datasets privately and accurately has been accepted to the AAAI/ACM conference AI, Ethics and Society in 2025. I will see you in Spain in October!
+
+
+# 2024 NeurIPS Tutorial on PrivacyML: Evaluating AI Privacy
+
+<details>
+<summary>Key motivations for my organizing.</summary>
+
+* We observe that the ML community cannot sufficiently access privacy tech. People interested in safe ML topics such as model alignment often do not have a clear understanding of cryptography-based techniques when applied to ML.
+
+* On the other hand, cryptographers want to apply their knowledge, especially with practical security management, to machine learning systems. Yet they face the problem of a completely different mindset from machine learning researchers who currently drive the development of these systems.
 
 These communities do not engage with each other, partly because they do not have a shared common ground. This tutorial can bridge the gap between cryptography and effective decentralized ML training and evaluation.
 
@@ -11,6 +55,25 @@ Join us at NeurIPS 2024 for a tutorial on Privacy ML: Meaningful-Privacy Preserv
 
 [Slides and video](https://slideslive.com/39031687/privacyml-evaluations?ref=folder-163279)
 Our website [https://privacyml.github.io/](https://privacyml.github.io/)
+</details>
+
+# Foresight Institute's 2024 Workshop on AGI
+I am grateful to be invited to talk on Neartermist safety: incentive-compatible directions for large model oversight at [Cryptography, Security and Multipolar Scenarios](https://events.foresight.org/2024-intelligent-cooperation-workshop/).
+
+<details>
+<summary> My experience. </summary>
+
+I had a wonderful time, especially in reconnecting with foresight's community that focuses on technical solutions for a brighter future. It also helped me connect to like-minded researchers like Dima and Fazl, with whom we developed a tutorial at NeurIPS.
+
+It seems that some of the words I used and (unfortunately) did not get to define became co-opted by other attendees, so I feel the need to clarity this:
+
+* **Scalable model oversight** is different from Anthropic's existing paper on [scalable oversight](https://arxiv.org/abs/2211.03540). The former refers to actual oversight that scales to the size of the models. The latter refers to empirically human-measurable tasks. They are similar on goals, but different. If you want to use "scalable oversight" to mean "oversight solutions", I suggest that you use scalable *model* oversight.
+</details>
+
+# My arguments for cryptography towards AI safety.
+<details>
+<summary> Framing my work </summary>
+
 ## Data Problems With Large Models
 While uncertainties abound in longtermism, societal attitudes towards data and AI are predictably shifting in the near term. We present a scenario under intense market competition and widely spread antagonism towards AI development: open data has been depleted, new data is no longer free; people are guarding their data closely, and businesses are holding onto their training data and resulting models secretly. As AI advances with larger scales towards AGI, ad-hoc evaluations will cease to be useful. New knowledge testers will have little longevity, and will become more and more costly to build. In those cases, how can knowledge still be shared, and how can governments and organizations perform evaluations on frontier models, when collaboration becomes costly?
 
@@ -22,6 +85,7 @@ Through my research, I hope to mitigate the erosion of individual autonomy perpe
 The development of AI exacerbates and emboldens the loss of individual control over data, yet at the same time, it requires vasts amounts of new data in order to scale and maintain control, especially in the worst-case scenarios. Data rights can be an important piece in the checks and balances in our future.
 
 Remark: an interesting framing is that I work on *neartermist* *safety*. Weaponizing AI to take away people's agency is happening in some parts of the world -- certainly not *longtermist*. While most of my peers work on scaling large models, I catastrophize large scale societal harm. I am ok with this label, because it motivates me to take grounded approaches in the lofty subject that is AI safety.
+</details>
 
 ## Privacy, Security, and Machine Learning
 In 2024, I am developing my PhD thesis on AI Privacy -- broadly towards preserving data rights with security techniques -- in the computer science department of NYU's Courant Institute of Mathematics.
