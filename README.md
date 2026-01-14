@@ -1,16 +1,34 @@
-I just completed my CS PhD at NYU's Courant Institute!
+Hi I am Mimee Xu, and I build infrastructure for large scale machine learning's worst problems. I enjoy fixating on technical details and have a broad breadth of techniques that span systems, optimization, security & privacy, and regulations.
 
-My research focused on AI privacy, specifically on developing secure techniques to preserve data rights. This research explores the concept of a private data economy, where individuals retain control over their data while fostering a healthy market environment. By empowering individuals with the right to be forgotten and other data rights, we can establish sustainable AI governance for the future.
+This website is a collection of (human-written) ideas that attempts to form a linearity in telling my story of intellectual and engineering pursuits. My professional bio is synthesized [here](bio/md).
 
-This website is a collection of (human-written) ideas that do not form a linearity, but tells my story of intellectual and engineering pursuits.
+
+# 2026 NYU Law: Privacy of the Mind
+<details>
+<summary>
+I am working on a paper with Nofar at NYU Law, where we make clear a new notion of privacy in the age of AI, grounded in both regulatory practice and computer science.
+
+Working title: <b>Privacy of the Mind: Emotional Processing, Confidentiality, and the Role of Tech and Law in AI-mediated Self</b>
+
+Talk to us about your thoughts!
+
+</summary>
+Having a chatbot mold their responses to you, ground you, fill in the blank, or otherwise reflect back your thoughts and feelings may sound dreary to some privacy scholars, but it is a force unstoppable. People increasingly use ChatGPT for emotional processing. This self-introspective process externalizes inner voice and outsources inner work, which until recently cannot be explicitly completed without the use of traditional instruments like personal diaries, trusted friends, or modern psychotherapists. Such an intimate activity is not always an individualistic endeavor, however, as institutions where we share our own intimate thoughts abound: confessions, circles, AA-meetings. What distinguishes diaries, friends, and therapists apart is a lack of intrusion of the Other. We may expect inner voice, when externalized, to still preserve a lack of judgment that allows for the flow of emotional expression.
+
+The widespread use of ChatGPT for emotional processing therefore may hint at a privacy relevance unseen before. We ask, is this an emergent form of privacy in the age of AI that ought to be recognized and studied?
+
+We share a philosophical and ethical basis for the intimate use case as an extension of or a witness to the self, or an interception to the becoming of self, map it to modern psychology and technological design, before comparing it with analogies like diaries. Lastly, we apply these analogies’ relevant law and regulations and attempt to contour the notion of Privacy of the Mind.
+</details>
 
 # 2025-2026 Postdoc at NYU Law ILI
+I am a research fellow at New York University's Information Law Institute, working with the [wonderful law people](https://www.law.nyu.edu/centers/ili/people) on innovation policy and information privacy law.
+
+I am resetting and seeing through pre-existing trains of thought. In particular, I am expanding on the safety impact both in theory (optimization -> privacy theory -> legal theory) and in practice (computer science->implementation->societal impact).
+
 <details>
-<summary> AI is already deployed prematurely -- what are the issues, and -- most importantly -- what do those issues tell us about the future?</summary>
+<summary> My main question: AI is already deployed prematurely -- what are the issues, and -- most importantly -- what do those issues tell us about the future?</summary>
 
-This is my year of rest and relaxation (aka seeing things through while trying to make ends meet).
-
-Please find me for
+I am also expanding my community. Please find me for
 * research ideas,
 * coffee chats,
 * indie films and book recs,
@@ -19,10 +37,10 @@ Please find me for
 
 I am still working on auditing and regulatory possibilities for bringing meaningful oversight for AI. The technical projects can be seen on the rest of the website. I do meetings 3 days a week during the day. Earlier is better.
 
-My office: Wilf Hall south of washington square park.
 </details>
 
 Seeing that AI privacy has become much less of a theoretical pursuit, I aim to bring impact of privacy technologies further into both regulation and actual use case.
+
 
 #  2025 Paper on AI Ethics and Society: Private Dataset Evaluations
 
@@ -39,6 +57,9 @@ We look forward to presenting our solution to this problem at AAAI-AIES this Oct
 
 Delighted that our paper on evaluating external datasets privately and accurately has been accepted to the AAAI/ACM conference AI, Ethics and Society in 2025. I will see you in Spain in October!
 
+# 2025 I just completed my CS PhD at NYU's Courant Institute!
+
+My research focused on AI privacy, specifically on developing secure techniques to preserve data rights. This research explores the concept of a private data economy, where individuals retain control over their data while fostering a healthy market environment. By empowering individuals with the right to be forgotten and other data rights, we can establish sustainable AI governance for the future.
 
 # 2024 NeurIPS Tutorial on PrivacyML: Evaluating AI Privacy
 
