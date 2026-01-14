@@ -39,8 +39,9 @@ I am still working on auditing and regulatory possibilities for bringing meaning
 
 </details>
 
-Seeing that AI privacy has become much less of a theoretical pursuit, I aim to bring impact of privacy technologies further into both regulation and actual use case.
+Seeing that various issues labeled as "AI privacy" have become much less of a theoretical pursuit, I aim to bring impact of privacy technologies further into both regulation and actual use case.
 
+Remark: an interesting framing is that I work on *neartermist* *safety*. AI's potential to take away people's agency is readily evident in many parts of the world. While most of my peers work on scaling large models, I catastrophize large scale societal harm. I am somewhat ok with this label, because it motivates me to take grounded approaches in the lofty subject that is AI safety.
 
 #  2025 Paper on AI Ethics and Society: Private Dataset Evaluations
 
@@ -154,7 +155,7 @@ My work on the Right To Be Forgotten for content recommenders (with ByteDance).
 
 ----
 ## Of Ongoing Interests
-I am increasingly interested in secure and private evaluations on safety-critical tasks. Stay tuned, and reach out if you are interested.
+I am interested in secure and private evaluations on safety-critical tasks.
 
 I'm working on integrating cutting-edge cryptography and security techniques into applications that may become future infrastructure. I have opinions on the techniques that afford better policy regarding our future relationship with AI.
 
@@ -208,7 +209,7 @@ I would also love to [hear your practical privacy challenges](#contact-me) that 
 
 ----
 ### <a name="secure-data"></a> Towards Fair Pricing and Secure Transaction of Training data.
-This project has the broad goal of streamlinining the incentives problems with data markets. There are three endeavers so far on trackling the challenge:
+This project has the broad goal of streamlining the incentives problems with data markets. There are three endeavors so far on tracking the challenge:
 
 #### Data Appraisal without Data Sharing
 
@@ -234,7 +235,7 @@ Data markets are crucial part of the future of our economy. Traditional market p
 
 On the other hand, the rise of AI application whose utility depend on data quantity and quality means that privately-held quality data becomes apparently valuable. This gives rise to a data market where acquisitions and ownership disputes will be frequent.
 
-We envison new mechanisms that allows model owners to acquire data of appropriate utility, while allowing data owner to manage, edit, and delete their data.
+We envision new mechanisms that allows model owners to acquire data of appropriate utility, while allowing data owner to manage, edit, and delete their data.
 
 This work is ongoing.
 
