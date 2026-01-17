@@ -20,16 +20,17 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <div class="a">{{ site.phd_topic }}</div></br>
         <div class="a">{{ site.subdescription }}</div></br>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <!-- <ul>
+        <!-- Add your subpage link here -->
+        <ul>
           {% for item in site.docs %}
           <li class="{% if item.url == page.url %}active{% endif %}">
             <a href="{{ item.url }}"> {{ item.title }}</a>
           </li>
           {% endfor %}
-        </ul> -->
+        </ul>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
