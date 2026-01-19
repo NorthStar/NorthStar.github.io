@@ -1,0 +1,67 @@
+---
+---
+@import "{{ site.theme }}"; // default
+
+// override
+
+// link color
+a { color: cornflowerblue; text-decoration: none; }
+
+// list color and border
+header ul {
+    list-style: none;
+    height: 40px;
+    padding: 0;
+    background: #f4f4f4;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+    width: 270px;
+}
+
+.logo {
+  max-height: 30rem; /* Adjust the container height */
+}
+.logo img {
+  max-height: 15rem; /* Adjust the image height */
+  height: auto;
+  width: auto;
+}
+/* Increase font size and spacing for list items */
+ul {
+  font-size: 1.15rem; /* Adjust this number to your preference */
+  line-height: 1.6;    /* Adds vertical space between list items */
+  margin-bottom: 1.5em; 
+}
+
+
+/* Optional: Make sidebar links larger too */
+header ul {
+    max-height: none !important; /* Removes any hard height limits */
+    overflow-y: visible !important; 
+    height: auto !important;
+}
+
+.nav li.active a {
+    color: lightgray;
+    cursor: default;
+    text-emphasis: dot;
+}
+
+.nav li a:hover {
+    color: cornflowerblue;
+    background: #e0e0e0;
+    border-radius: 5px;
+}
+
+
+.result li.active a {
+    color: lightgray;
+    cursor: default;
+    text-emphasis: dot;
+}
+
+.result li a:hover {
+    color: cornflowerblue;
+    background: #e0e0e0;
+    border-radius: 5px;
+}

@@ -6,10 +6,10 @@ theme: jekyll-theme-minimal
 
 # Site info
 title: Mimee Xu
-phd_topic: AI Privacy/Security
-subdescription: Fellow at NYU ILI
+description: Fellow at NYU ILI
+phd_topic: Researcher on AI Privacy/Security
 phd: PhD NYU Courant 2025
-description: Ex-Google, Baidu, Meta, ByteDance
+subdescription: Ex-Google, Baidu, Meta, ByteDance
 prev_aff: NYU Courant Institute of Mathematical Sciences, Harvey Mudd College, Google Baidu Meta Bytedance UnifyID
 
 logo: /logo.png
@@ -35,6 +35,7 @@ github:
 github: [metadata]
 
 docs:
+
   - title: Home
     url: /
   # title: Publications
