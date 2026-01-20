@@ -1,3 +1,3 @@
 Hi I am Mimee Xu, and I build infrastructure for large scale machine learning's worst problems. I enjoy fixating on technical details and have a broad breadth of techniques that span systems, optimization, security & privacy, and regulations.
 
-This website is a collection of (human-written) ideas that attempts to form a linearity in telling my story of intellectual and engineering pursuits. My professional bio is synthesized [here](bio/md).
+This website is a collection of (human-written) ideas that attempts to form a linearity in telling my story of intellectual and engineering pursuits. My professional bio is synthesized [here](bio).

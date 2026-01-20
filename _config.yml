@@ -11,7 +11,7 @@ phd_topic: Researcher on AI Privacy/Security
 phd: PhD NYU Courant 2025
 subdescription: Ex-Google, Baidu, Meta, ByteDance
 prev_aff: NYU Courant Institute of Mathematical Sciences, Harvey Mudd College, Google Baidu Meta Bytedance UnifyID
-
+                                                                                          
 logo: /logo.png
 
 markdown: CommonMarkGhPages
@@ -34,6 +34,9 @@ github:
   is_project_page: false
 github: [metadata]
 
+# build /$doc_page/index.html
+permalink: pretty
+
 docs:
 
   - title: Home
@@ -45,12 +48,12 @@ docs:
   # url: /talks/
   
   - title: Research
-    url: /bio
+    url: /bio/
   
   - title: Projects
-    url: /projects
+    url: /projects/
 
   - title: About
-    url: /contact
+    url: /contact/
 # - title: Community
 #   url: community
