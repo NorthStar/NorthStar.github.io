@@ -45,12 +45,12 @@ docs:
   # url: /talks/
   
   - title: Research
-    url: /bio/
+    url: /bio
   
   - title: Projects
-    url: /projects/
+    url: /projects
 
   - title: About
-    url: /contact/
+    url: /contact
 # - title: Community
 #   url: community
