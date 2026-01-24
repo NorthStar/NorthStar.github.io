@@ -247,7 +247,7 @@ I wrote a [🔗survey paper🔗](/meanfield.pdf) that helps me understand 1) Mea
 ### <a name="homomorphic-health"></a>A Worry-free Encryption Plan for Healthcare Data
 
 [🔗HEalth: Privately Computing on Shared Healthcare Data🔗](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_12)
-- w/ Leo de Castro, Rami el Khatib, and Erin Hales at [🔗Microsoft Research Private AI Bootcamp🔗](https://www.microsoft.com/en-us/research/event/private-ai-bootcamp/), part of a book chapter on [Protecting Privacy through Homomorphic Encryption](https://link.springer.com/book/10.1007/978-3-030-77287-1)
+- w/ Leo de Castro and Erin Hales at [🔗Microsoft Research Private AI Bootcamp🔗](https://www.microsoft.com/en-us/research/event/private-ai-bootcamp/), part of a book chapter on [Protecting Privacy through Homomorphic Encryption](https://link.springer.com/book/10.1007/978-3-030-77287-1)
 
 
 **Abstract** Healthcare in the US is notoriously expensive and unsustainable. Many machine learning startups aim to simplify the process by bringing in automated expertise to hospitals on radiology, brain imaging, or cancer detection. On the other hand, it is well-known that hospitals cannot easily share data. Existing machine learning solutions tend to focus on training with data obtained through long-term collaboration because the private computation requires that the clients have done appropriate pre-processing. Effectively, they work *around* the data-sharing challenge in training rather than tackling it. As a result, their inference model is typically static, and does not adapt to changes continuously.

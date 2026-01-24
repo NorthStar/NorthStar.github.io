@@ -1,3 +1,5 @@
 Hi I am Mimee Xu, and I build infrastructure for large scale machine learning's worst problems. I enjoy fixating on technical details and have a broad breadth of techniques that span systems, optimization, security & privacy, and regulations.
 
+I recently finished my PhD from [NYU Courant](https://cims.nyu.edu/dynamic/), and currently a research fellow at [NYU Law ILI](https://www.law.nyu.edu/centers/ili). I research interned at Facebook AI Research and ByteDance Applied ML. Previously, I worked in industry on engineering and research with experiences at Google Chrome and Baidu Silicon Valley AI Labs.
+
 This website is a collection of (human-written) ideas that attempts to form a linearity in telling my story of intellectual and engineering pursuits. My professional bio is synthesized [here](bio).

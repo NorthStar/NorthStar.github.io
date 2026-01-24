@@ -27,15 +27,10 @@ header ul {
   width: auto;
 }
 /* Increase font size and spacing for list items */
-ul {
-  font-size: 1.15rem; /* Adjust this number to your preference */
-  line-height: 1.6;    /* Adds vertical space between list items */
-  margin-bottom: 1.5em; 
-}
-
-
-/* Optional: Make sidebar links larger too */
 header ul {
+    font-size: 1.15rem; /* Adjust this number to your preference */
+    line-height: 1.6;    /* Adds vertical space between list items */
+    margin-bottom: 1.5em; 
     max-height: none !important; /* Removes any hard height limits */
     overflow-y: visible !important; 
     height: auto !important;

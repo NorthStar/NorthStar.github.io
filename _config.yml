@@ -46,14 +46,15 @@ docs:
 
   # title: Talks
   # url: /talks/
-  
+  - title: About
+    url: /contact/
+
   - title: Research
     url: /bio/
   
   - title: Projects
     url: /projects/
 
-  - title: About
-    url: /contact/
+
 # - title: Community
 #   url: community
