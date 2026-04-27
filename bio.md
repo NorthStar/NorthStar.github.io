@@ -11,7 +11,7 @@ Her work focuses on two complementary directions:
 Together, this work enables mechanisms for accountable oversight.
 
 ## Academic Bio
-As a Research Fellow at the Information Law Institute at NYU, Xu’s ongoing work on *Privacy of the Mind* examines how AI-mediated cognition poses a novel systemic risk, and how emerging technical capabilities could modernize privacy protection law and inform the development of new legal doctrines.
+As a Research Fellow at the Information Law Institute at NYU, Xu’s ongoing work on [*Privacy of the Mind*](/potm) examines how AI-mediated cognition poses a novel systemic risk, and how emerging technical capabilities could modernize privacy protection law and inform the development of new legal doctrines.
 
 Xu earned her PhD in Computer Science from the NYU Courant Institute in 2025. Her [dissertation](https://cs.nyu.edu/media/publications/Mimee_Xu_Dissertation.pdf) advanced scalable secure computation techniques for dataset valuation, model evaluation, and encrypted auditing of models. 
 
